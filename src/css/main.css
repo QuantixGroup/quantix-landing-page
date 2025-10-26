@@ -213,7 +213,6 @@ body.light-mode .hero h1 {
 
 .hero p {
   font-size: clamp(1rem, 2vw, 1.3rem);
-  color: var(--text-secondary);
   line-height: 1.6;
   max-width: 700px;
   margin: 0 auto;
